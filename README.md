@@ -1,2 +1,2 @@
 # portfolio
-A portfolio for technical writing
+A portfolio 
